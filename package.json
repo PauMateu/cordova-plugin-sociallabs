@@ -1,0 +1,25 @@
+{
+    "name": "cordova-plugin-sociallabs",
+    "version": "0.0.1",
+    "description": "Cordova plugin sociallabs",
+    "cordova": {
+      "id": "cordova-plugin-sociallabs",
+      "platforms": [
+        "android"
+      ]
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/PauMateu/cordova-plugin-sociallabs.git"
+    },
+    "keywords": [
+      "sociallabs"
+    ],
+    "engines": [],
+    "author": "Pau Mateu",
+    "license": "MIT",
+    "bugs": {
+      "url": "https://github.com/PauMateu/cordova-plugin-sociallabs/issues"
+    },
+    "homepage": "https://github.com/PauMateu/cordova-plugin-sociallabs/"
+  }
