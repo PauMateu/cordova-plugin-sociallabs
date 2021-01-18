@@ -25,5 +25,11 @@
 				</intent-filter>
 			</receiver>
 		</config-file>
-    </platform>
+		
+		<config-file parent="/*" target="AndroidManifest.xml">
+     		<uses-permission android:name="android.permission.WAKE_LOCK" />
+    		<uses-permission android:name="android.permission.USE_FULL_SCREEN_INTENT" />
+        </config-file>
+    
+	</platform>
 </plugin>
